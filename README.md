@@ -2,7 +2,7 @@
 
 **I'm a student from Geneva, Switzerland. 🇨🇭**
 
-**After learning and experimenting with web developement, Python, C#, SQL/NoSQL and multiple frameworks, I'm trying to get into lower-level programming as I would love to work with operating systems. Other fields of interest include cybersecurity and networking.**
+**After learning and experimenting with web developement, Python, C#, SQL/NoSQL and multiple frameworks, I'm trying to get into lower-level programming as I would love to work with operating systems. Other fields of interest in IT include cybersecurity and networking.**
 
 **I'm also more and more embracing the open-source philosophy.**
 
