@@ -7,7 +7,8 @@
 - 🆓 Open-source
 - 🛠️ Low-level programming
 - 🖥️ Operating systems
-- 🌐 Networking/Network programming
+- 📡 Networking
+- 🌐 Network programming
 - 🛡️ Cybersecurity
 
 #### My other interests :
