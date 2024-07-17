@@ -2,16 +2,22 @@
 
 **I'm a student from Geneva, Switzerland. 🇨🇭**
 
-**After learning and experimenting with web developement, Python, C#, SQL/NoSQL and multiple frameworks, I'm trying to get into lower-level programming as I would love to work with operating systems. Other fields of interest in IT include cybersecurity and networking.**
-
-**I currently speak *Français* and English.**
-
-**You can find me on Twitter/X: [@ekkimukk11](https://twitter.com/ekkimukk11)**
+**My main interests in IT**:
+- 🐧 Linux
+- 🆓 Open-source
+- 🛠️ Low-level programming
+- 🖥️ Operating systems
+- 🌐 Networking/Network programming
+- 🛡️ Cybersecurity
 
 #### My other interests :
-- ✈️ Aviation ✈️
-- 🎵 Music ([Last.fm](https://www.last.fm/user/EKKI-5)) 🎵
-- 🐲 Kaijus 🐲
+- ✈️ Aviation
+- 🎵 Music ([Last.fm](https://www.last.fm/user/EKKI-5))
+- 🐲 Kaijus
+
+**I currently speak French and English.**
+
+**You can find me on Twitter/X: [@ekkimukk11](https://twitter.com/ekkimukk11)**
 
 <br>
 
