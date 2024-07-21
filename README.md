@@ -10,11 +10,13 @@
 - 📡 Networking
 - 🌐 Network programming
 - 🛡️ Cybersecurity
+- 🖳 Retro computers
 
 #### My other interests :
 - ✈️ Aviation
 - 🎵 Music ([Last.fm](https://www.last.fm/user/EKKI-5))
 - 🐲 Kaijus
+- 🕹️ Simulation games
 
 **I currently speak French and English.**
 
