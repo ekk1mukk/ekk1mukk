@@ -11,7 +11,7 @@
 - 🌐 Network programming
 - 🛡️ Cybersecurity
 - 🖳 Retro computers
-- 🔗 peer-to-peer
+- 🔗 Peer-to-peer
 
 #### My other interests :
 - ✈️ Aviation
