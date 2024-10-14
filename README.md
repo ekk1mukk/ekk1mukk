@@ -1,6 +1,6 @@
 ### Heyy, I'm Ekki !
 
-**I'm a student from Geneva, Switzerland. 🇨🇭**
+**I'm a Swiss student. 🇨🇭**
 
 **My main interests in IT**:
 - 🐧 Linux
